@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThrottleController", "E:\OneDrive\backup\Documentos\Arduino\ThrottleController\ThrottleController.vcxproj", "{B34D71D4-72F3-4437-9B69-9756B2167E1E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StickController", "E:\OneDrive\backup\Documentos\Arduino\StickController\StickController.vcxproj", "{1AD17996-C89F-4E81-BEEA-1636593162E3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RudderController", "E:\OneDrive\backup\Documentos\Arduino\RudderController\RudderController.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B34D71D4-72F3-4437-9B69-9756B2167E1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B34D71D4-72F3-4437-9B69-9756B2167E1E}.Debug|x86.Build.0 = Debug|Win32
+		{B34D71D4-72F3-4437-9B69-9756B2167E1E}.Release|x86.ActiveCfg = Release|Win32
+		{B34D71D4-72F3-4437-9B69-9756B2167E1E}.Release|x86.Build.0 = Release|Win32
+		{1AD17996-C89F-4E81-BEEA-1636593162E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{1AD17996-C89F-4E81-BEEA-1636593162E3}.Debug|x86.Build.0 = Debug|Win32
+		{1AD17996-C89F-4E81-BEEA-1636593162E3}.Release|x86.ActiveCfg = Release|Win32
+		{1AD17996-C89F-4E81-BEEA-1636593162E3}.Release|x86.Build.0 = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B69F6CE-3367-4693-AC85-F66D29CD369C}
+	EndGlobalSection
+EndGlobal
